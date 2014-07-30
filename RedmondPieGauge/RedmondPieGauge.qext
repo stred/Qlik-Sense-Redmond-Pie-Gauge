@@ -1,0 +1,9 @@
+{
+    "name": "RedmondPieGauge",
+    "description": "Redmond Pie-Gauge",
+    "icon": "pie-chart",
+    "type": "visualization",
+    "version": "1.0",
+    "preview": "bar",
+    "author": "Stephen Redmond"
+}
